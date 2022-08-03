@@ -1,0 +1,6 @@
+Iniciar un proyecto de django core 
+  - django-admin startproject core .
+
+Correr proyecto de python 
+  - python manage.py runserver 127.0.0.1:4000
+  
